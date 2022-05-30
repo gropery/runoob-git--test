@@ -4,6 +4,7 @@ merge
 develop branch
 develop modify 1st
 
+master modify 2st
 aaa
 
 bbb
